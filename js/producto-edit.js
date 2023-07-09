@@ -11,7 +11,7 @@ createApp({
       imagen: "",
       stock: 0,
       precio: 0,
-      url: "http://nncodoacodo.pythonanywhere.com/productos/" + id,
+      url: "https://nncodoacodo.pythonanywhere.com/productos/" + id,
     };
   },
   methods: {
